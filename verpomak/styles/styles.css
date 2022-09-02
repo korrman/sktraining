@@ -1,6 +1,6 @@
 @font-face { 
     font-family: 'NunitoSansRegular';
-    src: url(/fonts/NunitoSansRegular) format('.ttf');
+    src: url('../fonts/NunitoSansRegular') format('.ttf');
 }
 .body {
     margin: 0;
@@ -50,7 +50,7 @@
     color: white;
 }
 .hero{
-    background-image: url('./images/fotostol.jpg');
+    background-image: url('../images/fotostol.jpg');
     background-size: cover;
     height: 707px;
     background: rgba(0, 0, 0, 0.7);
